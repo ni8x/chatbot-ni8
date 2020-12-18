@@ -1,6 +1,8 @@
 discord.py
 asyncio
-requests, jsonlib, sqlite3
+requests
+jsonlib
+sqlite3
 discord.ext
 collection
 strings
