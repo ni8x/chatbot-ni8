@@ -97,4 +97,4 @@ async def chatbot():
         cursor.execute('UPDATE sentences SET used=used+1 WHERE rowid=?', (row[0],))
 
 bot.loop.create_task(chatbot())
-bot.run(config['discordBotToken'], bot = False)
+bot.run(config['discordBotToken'])
