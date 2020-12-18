@@ -3,7 +3,6 @@ asyncio
 requests
 jsonlib
 db-sqlite3
-discord.ext
 collection
 strings
 maths
