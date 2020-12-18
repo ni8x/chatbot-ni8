@@ -1,7 +1,7 @@
 discord.py
 asyncio
 requests
-jsonlib
+
 db-sqlite3
-collection
+
 
