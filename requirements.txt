@@ -4,5 +4,4 @@ requests
 jsonlib
 db-sqlite3
 collection
-strings
 maths
